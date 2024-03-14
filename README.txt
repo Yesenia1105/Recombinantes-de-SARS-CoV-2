@@ -5,4 +5,4 @@ En Scripts se encuentran 3 archivos:
 
 En Datos_Alineados se encuentran todos los .fasta de varios genomas alineados.
 
-En Datos_sin_Alinear se encuentran los .fasta descargados directamente de GISAID.
+En Datos_Para_Alinear se encuentran los .fasta descargados directamente de GISAID.
